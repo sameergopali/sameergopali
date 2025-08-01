@@ -25,7 +25,7 @@ Hello! 👋 I’m Sameer Gopali, a software engineer focused on building modern,
 
 ## 🛠 Skills
 
-- Full-Stack Development: Python, Go, SQL, C, Rust, JavaScript
+- Full-Stack Development: Python, Go, Java, SQL, React, JavaScript
 - AI/ML/LLM: Implementation, Integration, Evaluation
 - Data Pipeline Engineering
 - Optimizing LLM Performance using RAG, Fine-tuning
