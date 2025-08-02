@@ -4,7 +4,8 @@ Building Intelligent Systems | Backend Engineer | AI/ML Engineer
 
 ---
 
-Hello! 👋 I’m Sameer Gopali, a software engineer focused on building modern, data-driven applications, services, and distributed systems. I specialize in the intersection of technology and artificial intelligence—crafting solutions that are both intelligent and scalable.
+Hello! 👋 I’m Sameer Gopali, a software engineer focused on building modern, data-driven applications, services, and distributed systems. I specialize in crafting solutions that are both intelligent and scalable.
+
 
 ---
 
