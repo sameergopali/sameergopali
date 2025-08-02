@@ -10,8 +10,8 @@ Hello! 👋 I’m Sameer Gopali, a software engineer focused on building modern,
 
 ## 🚀 About Me
 
-- [🌐 LinkedIn](#)  
-- [🌐 Personal Site](#)  
+- [🌐 LinkedIn](#https://linkedin.com/in/sameergopali)  
+- [🌐 Personal Site](#https://sameergopali.github.io/)  
 
 ---
 
