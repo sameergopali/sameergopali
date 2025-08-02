@@ -45,12 +45,6 @@ Hello! 👋 I’m Sameer Gopali, a software engineer focused on building modern,
 
 ---
 
-## 🌟 Recent Projects
-
-*(Details coming soon)*
-
----
-
 ## 📫 Let's Connect!
 
 Feel free to reach out if you want to collaborate on a project, discuss technology, or just have a chat about software architecture and AI.
